@@ -24,7 +24,7 @@ fs.readFile("input.txt", "utf8", (err, data) => {
   }
   console.log(data); //Log the contents of input.txt to the console
 });
-console.log("program started"); //Log the
+console.log("program started");  //Log the
 
 // const server = http.createServer((req,res) =>{
 // res.writeHead(200, {"Content-Type": "text/plain"});
